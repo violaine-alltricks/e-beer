@@ -1,5 +1,5 @@
 {
-  "name": "e-dog",
+  "name": "e-beer",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,13 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
     "@types/react": "17.0.31",
-    "eslint": "8.0.1",
+    "eslint": "^8.0.1",
     "eslint-config-next": "11.1.2",
     "typescript": "4.4.4"
   }
